@@ -2,7 +2,7 @@
 title: "netlify-deployment"
 ---
 
-This is a Quarto website.
+This is a Quarto website.  And it had better be deployed on netlify.
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
